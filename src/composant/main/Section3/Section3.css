@@ -1,0 +1,81 @@
+.select-pays{
+    border: 0;
+    width: 40%;
+    border-radius: 4px;
+    padding:5px;
+    /* padding: 0 3.5em 0 1.5em; */
+    height: 40px;
+    text-transform: uppercase;
+    text-align:center;
+    font-weight: 600;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    margin-top:30px;
+  }
+  .select-pays:hover{
+    background-color:hsla(0,0%,100%,.9);
+  }
+
+  .part-section3{
+    overflow:hidden;
+    width:500px;
+    height:330px;
+    padding-left:30px;
+    padding-bottom:15px;
+    padding-top:15px;
+    border-radius: 10px;
+    position:relative;
+    margin:10px;
+    
+  }
+  
+  .h1-section3{
+    font-size: 1.625em;
+    color: #fff;
+    text-align:left;
+    margin:0px;
+    letter-spacing: .3px;
+  }
+
+  .img1-section3{
+    width:398px;
+    height:249px;
+    position:absolute;
+    top:135px;
+   }
+  .img-section3{
+    left:300px;
+  }
+
+  .composant-section3{
+    display:flex;
+    margin-left:110px;
+    margin-right: 120px; 
+    /*
+    Using CSS for a fade-in effect on page load
+    */
+    
+    -webkit-animation: fadein 2s; 
+  }
+  @-webkit-keyframes fadein { /* Safari and Chrome */
+      from {
+          opacity:0;
+      }
+      to {
+          opacity:1;
+      }
+  }
+  
+  .part1-section3{
+    background: #00ccb1;
+    margin-right:10px;
+    margin-left:30px;
+   }
+  
+  .part2-section3{
+    background: #3d83df;
+    margin-right:30px;
+   }
+.small-title{
+    color:#C2C8ED;
+}

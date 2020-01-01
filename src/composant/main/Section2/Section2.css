@@ -1,0 +1,16 @@
+.main-section2{
+    display:flex;
+    margin-left: 110px;
+    margin-right: 120px;
+  }
+  
+  .para{
+    
+    line-height: 1.75;
+    font-weight: 400;
+    padding-left:30px;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin:10px;
+    color:#ababab;
+  } 

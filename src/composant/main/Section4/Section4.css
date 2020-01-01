@@ -1,0 +1,37 @@
+main{
+    position:relative;
+  }
+  .p-section4{
+    color:#00B39B;
+    width: 20%;
+    padding-right: 1em;
+    font-size: 1.625em;
+    margin-left:68px;
+    text-align:left;
+  }
+  .main-section4{
+    display:flex;
+    margin-left:50px;
+    margin-right:100px;
+    
+    
+  }
+  .list-section4{
+    display:flex;
+    list-style-type:none;
+    margin-top:23px;
+    padding: 5px 0;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    }
+  path{
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  }
+  .svg-sect4{
+    width:200px;
+    height:32px;
+  }
+  path:hover{
+    fill:#00b39b;
+  }
